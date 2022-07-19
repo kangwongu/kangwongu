@@ -1,4 +1,5 @@
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kwg527)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kwg527)](https://velog.io/@kwg527)
+
 <!--
 **kangwongu/kangwongu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
