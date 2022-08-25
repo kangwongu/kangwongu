@@ -1,4 +1,9 @@
+### Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kwg527)](https://velog.io/@kwg527)
+<br>
+
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwg0527)](https://solved.ac/kwg0527/)
 
 <!--
 **kangwongu/kangwongu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
